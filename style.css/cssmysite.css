@@ -1,0 +1,103 @@
+body{
+
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ padding: 5px;
+ color: #66BFBF;
+ font-size: 3em;
+ margin: 10px auto 0 auto;
+ line-height: 2;
+}
+
+
+.header{
+  color: #66BFBF;
+  font-family: 'Kalam', cursive;
+  font-size: 1.50rem;
+  font-weight: normal;
+  margin-top:0px;
+}
+span{
+  text-decoration: underline;
+}
+h3{
+  font-family: 'Signika Negative', sans-serif;
+color: #11999E;
+}
+p{
+  font-family: 'Kalam', cursive;
+}
+.bottom-cloud
+{
+ position: absolute;
+}
+
+.top-cloud
+{
+  left:250px;
+  position: relative;
+}
+.top-container
+{
+    padding:10px;
+    background-color: #CFF5E7;
+ 
+}
+.skill-row
+{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile-pic
+{
+  width: 10%;
+}
+.skill
+{
+  float:left;
+  margin-right: 20px;
+  width: 25%;
+}
+.tool 
+{
+  float: right;
+  margin-left:20px;
+  width: 25%;
+}
+p{
+  color:#40514E;
+}
+hr{
+  color:#EAF6F6;
+  border-style:dotted none none ;
+  border-width: 8px;
+  width: 5%;
+}
+.btn
+{
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-color:#11999E; 
+  border-radius: 3px;
+  padding: 5px;
+  border: none;
+}
+.footer
+{
+  background-color:#11999E;
+  margin-top: 50px;
+  padding: 20px;
+}
+.footer-link
+{
+  color:whitesmoke;
+  padding: 10px;
+
+}
